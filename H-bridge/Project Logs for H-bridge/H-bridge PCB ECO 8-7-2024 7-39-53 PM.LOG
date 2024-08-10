@@ -1,0 +1,43 @@
+Change Component Footprint: Designator=P? Old Footprint=662002231822 New Footprint=662002231822
+Change Component Footprint: Designator=P? Old Footprint=662002231822 New Footprint=662002231822
+Change Component Footprint: Designator=P? Old Footprint=662002231822 New Footprint=662002231822
+Change Component Footprint: Designator=P? Old Footprint=662002231822 New Footprint=662002231822
+Change Component Footprint: Designator=J? Old Footprint=691103110002 New Footprint=691103110002
+Change Component Footprint: Designator=J? Old Footprint=691103110002 New Footprint=691103110002
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin M?-1
+Add Pin To Net: Unknown Pin: Pin M?-1
+Add Pin To Net: Unknown Pin: Pin M?-1
+Add Pin To Net: Unknown Pin: Pin M?-2
+Add Pin To Net: Unknown Pin: Pin M?-3
+Add Pin To Net: Unknown Pin: Pin M?-3
+Add Pin To Net: Unknown Pin: Pin M?-3
+Add Pin To Net: Unknown Pin: Pin R?-1
+Add Pin To Net: Unknown Pin: Pin R?-2
+Add Net: Net with name "NetD?_1" already exists
+Add Net: Net with name "NetD?_2" already exists
+Add Net: Net with name "NetM?_2" already exists
+Add Net: Net with name "NetM?_2" already exists
+Add Net: Net with name "NetM?_2" already exists
+Add Net: Net with name "NetP?_2" already exists
+Add Net: Net with name "NetP?_2" already exists
+Add Net: Net with name "NetP?_2" already exists
+Add Class Member: Failed to add class member : Component D? Zener Diode
+Add Class Member: Failed to add class member : Component D? Zener Diode
+Add Class Member: Failed to add class member : Component D? Diode
+Add Class Member: Failed to add class member : Component D? Diode
+Added Member To Class: ClassName=H-bridge Member=Component J? 691103110002
+Add Class Member: Failed to add class member : Component M? P-channel Power MOSFET VDMOS Model
+Add Class Member: Failed to add class member : Component M? P-channel Power MOSFET VDMOS Model
+Add Class Member: Failed to add class member : Component M? N-channel Power MOSFET VDMOS Model
+Add Class Member: Failed to add class member : Component M? N-channel Power MOSFET VDMOS Model
+Added Member To Class: ClassName=H-bridge Member=Component P? 662002231822
+Added Member To Class: ClassName=H-bridge Member=Component P? 662002231822
+Added Member To Class: ClassName=H-bridge Member=Component P? 662002231822
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
+Add Class Member: Failed to add class member : Component R? Resistor
